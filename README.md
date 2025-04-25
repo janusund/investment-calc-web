@@ -1,8 +1,8 @@
-## Simple Tic Tac Toe Game<br/>
-A simple and intuitive React Native app to help users set, track goals.<br/>
+## Simple Investment Caculator<br/>
+A simple and intuitive React web application to calculate investment.<br/>
 
 ## Features<br/>
-2 player Tic Tac Toe<br/>
+Able to eneter ivestment amount , interest to calculate the results in a tabular format<br/>
 
 ## Tech Stack<br/>
 React <br/>
@@ -12,7 +12,7 @@ git clone this repo<br/>
 cd investment-calculator-web<br/>
 npm install<br/>
 npm start<br/>
-Note: You’ll need Node.js, Expo CLI, and a mobile simulator or Expo Go app.<br/>
+Note: You’ll need Node.js.<br/>
 
 ## Project Structure <br/>
 
