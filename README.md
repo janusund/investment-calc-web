@@ -2,7 +2,7 @@
 A simple and intuitive React web application to calculate investment.<br/>
 
 ## Features<br/>
-Able to eneter investment amount , interest to calculate the results in a tabular format<br/>
+Able to enter investment amount , interest to calculate the results in a tabular format<br/>
 
 ## Tech Stack<br/>
 React <br/>
