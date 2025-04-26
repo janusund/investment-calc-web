@@ -7,6 +7,11 @@ Able to enter investment amount , interest to calculate the results in a tabular
 ## Tech Stack<br/>
 React <br/>
 
+## ScreenShots<br/>
+Input Screen <br/>
+
+Results Screen <br/>
+
 ## Installation<br/>
 git clone this repo<br/>
 cd investment-calculator-web<br/>
