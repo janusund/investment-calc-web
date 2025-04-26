@@ -13,6 +13,7 @@ Input Screen <br/>
 
 Results Screen <br/>
 <p align="left"> <img src="./src/assets/screenshots/resultscreen_investment_calc.jpg" alt="Home Screen" width="300" /> </p> 
+
 ## Installation<br/>
 git clone this repo<br/>
 cd investment-calculator-web<br/>
