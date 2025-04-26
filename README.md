@@ -8,10 +8,11 @@ Able to enter investment amount , interest to calculate the results in a tabular
 React <br/>
 
 ## ScreenShots<br/>
-Input Screen <br/>
+Input Screen <br/> 
+![Input Screen ] (./src/assets/screenshots/inputscreen_investment_calc.jpg)
 
 Results Screen <br/>
-
+![Results Screen ] (./src/assets/screenshots/resultscreen_investment_calc.jpg)
 ## Installation<br/>
 git clone this repo<br/>
 cd investment-calculator-web<br/>
