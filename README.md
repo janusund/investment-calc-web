@@ -1,4 +1,4 @@
-## Simple Investment Caculator<br/>
+## Simple Investment Calculator<br/>
 A simple and intuitive React web application to calculate investment.<br/>
 
 ## Features<br/>
